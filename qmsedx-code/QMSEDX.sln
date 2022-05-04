@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QMSEDX", "QMSEDX\QMSEDX.csproj", "{D326A2E5-830F-4248-91A9-0F3BB38B8B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Debug|x64.ActiveCfg = Debug|x64
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Debug|x64.Build.0 = Debug|x64
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Release|x64.ActiveCfg = Release|x64
+		{D326A2E5-830F-4248-91A9-0F3BB38B8B64}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0085BDA-D539-472B-8689-D5F3B0DF7F43}
+	EndGlobalSection
+EndGlobal
